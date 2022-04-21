@@ -1,0 +1,1 @@
+select patient_id, weight, height, (cast(weight as float) / power((cast(height as float)/100),2) >=30) as isObese from patients

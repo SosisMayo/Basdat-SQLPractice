@@ -1,0 +1,1 @@
+select count(case when gender = 'M' then 1 end) as male_count, count(case when gender = 'F' then 2 end) as female_count from patients
