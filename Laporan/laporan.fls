@@ -1,0 +1,327 @@
+PWD d:\Garapan\Sistem Manajemen Basis Data\SQL-Practice\Laporan
+INPUT C:\Users\Dani\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Garapan\Sistem Manajemen Basis Data\SQL-Practice\Laporan\laporan.tex
+OUTPUT laporan.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\laporan.aux
+INPUT laporan.aux
+INPUT laporan.aux
+OUTPUT laporan.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT ..\Easy-1.sql
+INPUT ..\Easy-1.sql
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
+INPUT ..\Easy-1.sql
+INPUT ..\Easy-1.sql
+INPUT ..\Easy-1.sql
+INPUT ..\Easy-1.sql
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT ..\Easy-2.sql
+INPUT ..\Easy-2.sql
+INPUT ..\Easy-2.sql
+INPUT ..\Easy-2.sql
+INPUT ..\Easy-2.sql
+INPUT ..\Easy-2.sql
+INPUT ..\Easy-3.sql
+INPUT ..\Easy-3.sql
+INPUT ..\Easy-3.sql
+INPUT ..\Easy-3.sql
+INPUT ..\Easy-3.sql
+INPUT ..\Easy-3.sql
+OUTPUT laporan.pdf
+INPUT C:\Users\Dani\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT ..\Easy-4.sql
+INPUT ..\Easy-4.sql
+INPUT ..\Easy-4.sql
+INPUT ..\Easy-4.sql
+INPUT ..\Easy-4.sql
+INPUT ..\Easy-4.sql
+INPUT ..\Easy-5.sql
+INPUT ..\Easy-5.sql
+INPUT ..\Easy-5.sql
+INPUT ..\Easy-5.sql
+INPUT ..\Easy-5.sql
+INPUT ..\Easy-5.sql
+INPUT ..\Easy-6.sql
+INPUT ..\Easy-6.sql
+INPUT ..\Easy-6.sql
+INPUT ..\Easy-6.sql
+INPUT ..\Easy-6.sql
+INPUT ..\Easy-6.sql
+INPUT ..\Easy-7.sql
+INPUT ..\Easy-7.sql
+INPUT ..\Easy-7.sql
+INPUT ..\Easy-7.sql
+INPUT ..\Easy-7.sql
+INPUT ..\Easy-7.sql
+INPUT ..\Easy-8.sql
+INPUT ..\Easy-8.sql
+INPUT ..\Easy-8.sql
+INPUT ..\Easy-8.sql
+INPUT ..\Easy-8.sql
+INPUT ..\Easy-8.sql
+INPUT ..\Medium-1.sql
+INPUT ..\Medium-1.sql
+INPUT ..\Medium-1.sql
+INPUT ..\Medium-1.sql
+INPUT ..\Medium-1.sql
+INPUT ..\Medium-1.sql
+INPUT ..\Medium-2.sql
+INPUT ..\Medium-2.sql
+INPUT ..\Medium-2.sql
+INPUT ..\Medium-2.sql
+INPUT ..\Medium-2.sql
+INPUT ..\Medium-2.sql
+INPUT ..\Medium-3.sql
+INPUT ..\Medium-3.sql
+INPUT ..\Medium-3.sql
+INPUT ..\Medium-3.sql
+INPUT ..\Medium-3.sql
+INPUT ..\Medium-3.sql
+INPUT ..\Medium-4.sql
+INPUT ..\Medium-4.sql
+INPUT ..\Medium-4.sql
+INPUT ..\Medium-4.sql
+INPUT ..\Medium-4.sql
+INPUT ..\Medium-4.sql
+INPUT ..\Medium-5.sql
+INPUT ..\Medium-5.sql
+INPUT ..\Medium-5.sql
+INPUT ..\Medium-5.sql
+INPUT ..\Medium-5.sql
+INPUT ..\Medium-5.sql
+INPUT ..\Medium-6.sql
+INPUT ..\Medium-6.sql
+INPUT ..\Medium-6.sql
+INPUT ..\Medium-6.sql
+INPUT ..\Medium-6.sql
+INPUT ..\Medium-6.sql
+INPUT ..\Medium-7.sql
+INPUT ..\Medium-7.sql
+INPUT ..\Medium-7.sql
+INPUT ..\Medium-7.sql
+INPUT ..\Medium-7.sql
+INPUT ..\Medium-7.sql
+INPUT ..\Medium-8.sql
+INPUT ..\Medium-8.sql
+INPUT ..\Medium-8.sql
+INPUT ..\Medium-8.sql
+INPUT ..\Medium-8.sql
+INPUT ..\Medium-8.sql
+INPUT ..\Medium-9.sql
+INPUT ..\Medium-9.sql
+INPUT ..\Medium-9.sql
+INPUT ..\Medium-9.sql
+INPUT ..\Medium-9.sql
+INPUT ..\Medium-9.sql
+INPUT ..\Medium-10.sql
+INPUT ..\Medium-10.sql
+INPUT ..\Medium-10.sql
+INPUT ..\Medium-10.sql
+INPUT ..\Medium-10.sql
+INPUT ..\Medium-10.sql
+INPUT ..\Medium-11.sql
+INPUT ..\Medium-11.sql
+INPUT ..\Medium-11.sql
+INPUT ..\Medium-11.sql
+INPUT ..\Medium-11.sql
+INPUT ..\Medium-11.sql
+INPUT ..\Hard-1.sql
+INPUT ..\Hard-1.sql
+INPUT ..\Hard-1.sql
+INPUT ..\Hard-1.sql
+INPUT ..\Hard-1.sql
+INPUT ..\Hard-1.sql
+INPUT ..\Hard-2.sql
+INPUT ..\Hard-2.sql
+INPUT ..\Hard-2.sql
+INPUT ..\Hard-2.sql
+INPUT ..\Hard-2.sql
+INPUT ..\Hard-2.sql
+INPUT ..\Hard-3.sql
+INPUT ..\Hard-3.sql
+INPUT ..\Hard-3.sql
+INPUT ..\Hard-3.sql
+INPUT ..\Hard-3.sql
+INPUT ..\Hard-3.sql
+INPUT ..\Hard-4.sql
+INPUT ..\Hard-4.sql
+INPUT ..\Hard-4.sql
+INPUT ..\Hard-4.sql
+INPUT ..\Hard-4.sql
+INPUT ..\Hard-4.sql
+INPUT ..\Hard-5.sql
+INPUT ..\Hard-5.sql
+INPUT ..\Hard-5.sql
+INPUT ..\Hard-5.sql
+INPUT ..\Hard-5.sql
+INPUT ..\Hard-5.sql
+INPUT laporan.aux
+INPUT C:\Users\Dani\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Dani\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
