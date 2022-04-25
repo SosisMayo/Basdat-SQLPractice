@@ -1,0 +1,1 @@
+select concat(Round(cast(count(case when gender is "M" then 1 end) as float) / cast(count(*) as float) * 100,2),"%") as percent_of_male_patients from patients

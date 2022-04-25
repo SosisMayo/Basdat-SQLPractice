@@ -7,6 +7,9 @@ Easy
 6. Show first name and last name concatinated into one column to show their full name.
 7. Show first name, last name, and the full province name of each patient. Example: 'Ontario' instead of 'ON'
 8. Show how many patients have a birth_date with 2010 as the birth year.
+9. Show the first_name, last_name, and height of the patient with the greatest height.
+10. Show all columns for patients who have one of the following patient_ids: 1,45,534,879,1000
+11. Show the total number of admissions
 
 Medium
 1. Show unique birth years from patients and order them by ascending.
@@ -21,6 +24,12 @@ Order the rows by the first_name ascending and then by the last_name descending.
 9. Show the city and the total number of patients in the city in the order from most to least patients.
 10. Show first name, last name and role of every person that is either patient or physician. The roles are either "Patient" or "Physician"
 11. Show all allergies ordered by popularity. Remove 'NKA' and NULL values from query.
+12. Show all patient's first_name, last_name, and birth_date who were born in the 1970s decade. Sort the list starting from the earliest birth_date.
+13. We want to display each patient's full name in a single column. Their last_name in all upper letters must appear first, then first_name in all lower case letters. Separate the last_name and first_name with a comma. Order the list by the first_name in decending order. EX: SMITH,jane
+14. Show the cities where the patient's average weight, rounded-up, is less than 70kg. Sort the list by highest to lowest avg_weight.
+15. Show the province_id(s) where the total sum of its patient's height is greater than or equal to 7,000.
+16. Show the difference between the largest weight and smallest weight for patients with the last name 'Maroni'
+17. Based on the cities that our patients live in, show unique cities that are in province_id 'NS'?
 
 Hard
 1. Show all of the patients grouped into weight groups. Show the total amount of patients in each weight group. Order the list by the weight group decending. For example, if they weight 100 to 109 they are placed in the 100 weight group, 110-119 = 110 weight group, etc.
@@ -32,3 +41,12 @@ The password must be the following, in order:
     2. the numerical length of patient's last_name
     3. year of patient's birth_date
 5. Each admission costs $50 for patients without insurance, and $10 for patients with insurance. All patients with an even patient_id have insurance.Give each patient a 'Yes' if they have insurance, and a 'No' if they don't have insurance. Add up the admission_total cost for each has_insurance group.
+6. Show the province that has more patients identified as 'M' than 'F'. Must only show full province_name
+7. We are looking for a specific patient. Pull all columns for the patient who matches the following criteria:
+- First_name contains an 'r' after the first two letters.
+- Identifies their gender as 'F'
+- Born in February, May, or December
+- Their weight would be between 60kg and 80kg
+- Their patient_id is an odd number
+- They are from the city 'Halifax'
+8. Show the percent of patients that have 'M' as their gender. Round the answer to the nearest hundreth number and in percent form.

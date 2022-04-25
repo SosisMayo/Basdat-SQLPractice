@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.19)  24 APR 2022 04:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.19)  25 APR 2022 14:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -129,34 +129,34 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (../Easy-1.sql) (../Easy-2.sql) (../Easy-3.sql) [1
 
-{C:/Users/Dani/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (../Easy-4.sql) (../Easy-5.sql) (../Easy-6.sql) (../Easy-7.sql [2]) (../Easy-8.sql) (../Medium-1.sql) (../Medium-2.sql [3]) (../Medium-3.sql) (../Medium-4.sql) (../Medium-5.sql [4]) (../Medium-6.sql) (../Medium-7.sql) (../Medium-8.sql [5]) (../Medium-9.sql) (../Medium-10.sql) [6] (../Medium-11.sql) [7] (../Hard-1.sql)
+{C:/Users/Dani/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (../Easy-4.sql) (../Easy-5.sql) (../Easy-6.sql) (../Easy-7.sql [2]) (../Easy-8.sql) (../Easy-9.sql) (../Easy-10.sql) [3] (../Easy-11.sql) (../Medium-1.sql) (../Medium-2.sql) [4] (../Medium-3.sql) (../Medium-4.sql) (../Medium-5.sql) [5] (../Medium-6.sql) (../Medium-7.sql) (../Medium-8.sql) [6] (../Medium-9.sql) (../Medium-10.sql) [7] (../Medium-11.sql) (../Medium-12.sql) [8] (../Medium-13.sql) (../Medium-14.sql) (../Medium-15.sql) [9] (../Medium-16.sql) (../Medium-17.sql) (../Hard-1.sql [10])
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 235.
+(Font)              <7> on input line 309.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 235.
- [8] (../Hard-2.sql) (../Hard-3.sql)
-Overfull \hbox (1.1618pt too wide) in paragraph at lines 249--250
+(Font)              <5> on input line 309.
+ (../Hard-2.sql) (../Hard-3.sql [11])
+Overfull \hbox (1.1618pt too wide) in paragraph at lines 323--324
 \OT1/cmr/m/n/10 at-tend-ing[]physician[]id pada tabel ad-mis-sions meru-juk ke physi-cian[]id
  []
 
 
-Overfull \hbox (1.54512pt too wide) in paragraph at lines 250--251
+Overfull \hbox (1.54512pt too wide) in paragraph at lines 324--325
 []\OT1/cmr/m/n/10 Baris 7 : Den-gan kon-disi di-mana pri-mary[]diagnosis dari pasien adalah
  []
 
-[9] (../Hard-4.sql) (../Hard-5.sql) [10] [11] (laporan.aux) ) 
+(../Hard-4.sql) [12] (../Hard-5.sql) (../Hard-6.sql [13]) (../Hard-7.sql) (../Hard-8.sql) [14] [15] (laporan.aux) ) 
 Here is how much of TeX's memory you used:
- 3847 strings out of 478582
- 55844 string characters out of 2854162
- 699541 words of memory out of 3000000
- 21967 multiletter control sequences out of 15000+600000
+ 3939 strings out of 478582
+ 57984 string characters out of 2854162
+ 677657 words of memory out of 3000000
+ 22023 multiletter control sequences out of 15000+600000
  473878 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,424b,1812s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,6n,62p,424b,1818s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Dani\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on laporan.pdf (11 pages, 142874 bytes).
+Output written on laporan.pdf (15 pages, 156234 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
